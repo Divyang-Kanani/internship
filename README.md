@@ -5,7 +5,8 @@ Data Science with Python and Power-BI.
 <li> Topic : Data Analytics and Power-Bi. </li>
 <li> IDE : Jupiter Notebook & Power-BI Desktop. </li>
 <li> Usages : Numpy, Matlplotlib, Pandas, Data-Visualization. 
-<ul>
+<ul><br />
+<b> Location : Ahmedabad, Gujarat, India.</b>
 
 # Certificate 
 
